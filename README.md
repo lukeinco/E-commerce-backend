@@ -17,7 +17,7 @@
   Clone repo and npm for installation
 
   ## Usage
-  This would be used as a backend for an ecommerce website
+  This would be used as a backend for an ecommerce website. A video tutorial using insomnia is available here https://drive.google.com/file/d/1X-oaobYC0fNXPp_d6Bc1DyoNvIdAaDH7/view
 
   ## License
   This Project is licenced under MIT License.
